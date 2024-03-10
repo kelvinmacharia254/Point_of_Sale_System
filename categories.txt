@@ -1,3 +1,4 @@
-printers
-headsets
-hardisk
+RAM
+Monitors
+laptops
+Flash drives
